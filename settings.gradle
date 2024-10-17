@@ -20,3 +20,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Hilt-MVVM-Compose-Movie"
 include ':app'
+
+// Test
